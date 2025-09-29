@@ -36,4 +36,14 @@ We answer questions like:
 - Heatmap visualization of correlation matrix  
 
 ---
+### 🔹 Budget vs Gross Earnings (with regression line)
+This scatter plot shows the positive correlation between a movie's budget and its gross earnings.  
+
+![Budget vs Gross](1.png)  
+
+### 🔹 Correlation Heatmap for Numeric Features
+This heatmap highlights which features are most strongly correlated.  
+Budget and Gross Earnings show one of the strongest positive correlations.  
+
+![Correlation Heatmap](2.png)
 
