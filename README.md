@@ -37,8 +37,3 @@ We answer questions like:
 
 ---
 
-## ▶️ How to Run  
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/your-username/movie-correlation-analysis.git
-   cd movie-correlation-analysis
